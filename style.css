@@ -1,6 +1,6 @@
 
 body{
-    background: #352f5b;
+    background: #4a4280;
   }
   .container{
     max-width: 400px;
@@ -13,8 +13,11 @@ body{
     max-width: 400px;
   }
   .todos li{
-    background: #423a6f;
+    background: #5b4f9b;
   }
   .delete{
     cursor: pointer;
+  }
+  .filtered {
+      display: none !important;
   }
